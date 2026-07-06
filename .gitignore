@@ -221,3 +221,4 @@ __marimo__/
 *.zip
 ~.docx
 db.properties
+db_config.php
